@@ -1,0 +1,12 @@
+.App {
+  background-color: var(--COLOR-GRAY);
+  background-image: url('/src/assets/zustand.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
